@@ -44,7 +44,7 @@ strong{color:#d8b4fe}
 .introduce{font-size: 36px; max-width: 750px;}
 .split2{max-width: 500px;}
 .contact-me{color:white; margin-top: 80px; background-color: #09090c; width: 100%; border-radius: 0%; margin-bottom: 0; padding-bottom: 0%; font-family: 'Poppins', sans-serif; display: flex; height: 400px;}
-.contact-me .inside{ justify-content: space-between; display: flex; ; margin-top: 50px; max-width: 100%; gap: 100px; margin-left: 230px;}
+.contact-me .inside{ justify-content: space-between; display: flex; ; margin-top: 50px; max-width: 100%; gap: 100px; margin-left: 150px;}
 .icon{border-radius: 50%; background-color: #5D1C6A; width: 60px; height: 60px; display:inline-flex; justify-content: center; align-items: center; margin-top: 20px}
 .SDT{gap: 10px; justify-content: space-between; display: flex;}
 .Email{gap: 10px; justify-content: space-between; display: flex;}
